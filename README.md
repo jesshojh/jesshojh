@@ -1,16 +1,22 @@
-### Hi there 👋
+Hello there! I'm Jess, a former corporate lawyer who's embarked on an exciting journey into the world of data analytics 👩🏻‍💻.
 
-<!--
-**jesshojh/jesshojh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Area of Interests
 
-Here are some ideas to get you started:
+I'm dedicated to honing my skills in data analysis, data reporting, query optimization, and data visualization. My focus areas include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Querying data using SQL
+- Developing dashboards on Tableau
+- Data analysis and reporting using Excel
+
+📚 Portfolio
+
+Take a peek at some of my projects to see how I've applied my data analysis skills in action 👀.
+
+🛠️ Tools
+
+- Language: SQL
+- Visualisation: Tableau, Excel
+
+👋🏻 Connect with Me
+
+- LinkedIn
